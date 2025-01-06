@@ -6,15 +6,15 @@ This project is an E-commerce backend API built using **Node.js**, **Express**, 
 
 ## 📋 Table of Contents
 
-1. 🚀 [Technologies Used](#technologies-used)
-2. 📦 [Setup Instructions](#setup-instructions)
-3. 📚 [API Endpoints](#api-endpoints)
-4. 🧪 [Testing the Project](#testing-the-project)
-5. 🚨 [Error Handling](#error-handling)
-6. 📁 [Project Structure](#project-structure)
-7. 📖 [Swagger API Documentation](#swagger-api-documentation)
-8. 🤝 [Contributing](#contributing)
-9. 📄 [License](#license)
+1. 🚀 [Technologies Used](#-technologies-used)
+2. 📦 [Setup Instructions](#-setup-instructions)
+3. 📚 [API Endpoints](#-api-endpoints)
+4. 🧪 [Testing the Project](#-testing-the-project)
+5. 🚨 [Error Handling](#-error-handling)
+6. 📁 [Project Structure](#-project-structure)
+7. 📖 [Swagger API Documentation](#-swagger-api-documentation)
+8. 🤝 [Contributing](#-contributing)
+9. 📄 [License](#-license)
 
 ## 🚀 Technologies Used
 
@@ -181,7 +181,7 @@ This project is an E-commerce backend API built using **Node.js**, **Express**, 
 - **POST /api/v1/orders**: Create a new order.
 - **GET /api/v1/orders**: Get all orders for the authenticated user.
 
-## Testing the Project
+## 🧪 Testing the Project
 
 ### Running Tests
 
@@ -202,7 +202,7 @@ This project is an E-commerce backend API built using **Node.js**, **Express**, 
    npm run test:watch
    ```
 
-### 🧪 Manual API Testing
+### 🛠️ Manual API Testing
 
 You can also manually test the APIs using an API client like Postman. Below are the test scenarios for each endpoint:
 
